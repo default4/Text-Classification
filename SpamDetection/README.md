@@ -12,7 +12,9 @@ This project focuses on classifying SMS messages as spam or ham (non-spam) based
 
 To install the required libraries, run the following command:
 
-$ pip install pandas numpy scikit-learn requests
+```
+pip install pandas numpy scikit-learn requests
+```
 
 ## Dataset:
 
