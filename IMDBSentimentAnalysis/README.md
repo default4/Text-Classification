@@ -14,7 +14,9 @@ This project focuses on classifying movie reviews as positive or negative based 
 
 To install the required libraries, run the following command:
 
-$ pip install pandas numpy scikit-learn tensorflow keras requests
+```
+pip install pandas numpy scikit-learn tensorflow keras requests
+```
 
 ## Dataset:
 
